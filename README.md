@@ -21,6 +21,10 @@ A simple Telegram userbot based on Telethon .
 ### Heroku Deploy
   - [![Deploy To Heroku](https://www.herokucdn.com/deploy/button.svg)](https://github.com/FUCKTHEATTITUDE/catbot.git)
 
+Disclaimer
+### Easiest Way To Deploy On Heroku 
+
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/FUCKTHEATTITUDE/catbot.git"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-blue?style=for-the-badge&logo=heroku" width="220" height="38.45"/></a></p>
 ### Self host
   - [check this](https://catuserbot.gitbook.io/catuserbot/tutorial/self-host)
   
